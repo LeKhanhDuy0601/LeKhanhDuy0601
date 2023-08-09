@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\JAVA6-2023\Assignment\ASM_MoiNhat\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1296968298.index
+482022390.index
+329977969.index
+2072820218.index
+1654053157.index
